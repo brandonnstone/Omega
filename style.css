@@ -168,9 +168,8 @@
 		transition: all .5s;	
 	}
 	.column:hover .picture {
-		filter: blur(1.2px);
 		overflow: hidden;
-		transition: all .5s;
+		transition: all .7s;
 		-webkit-backface-visibility: hidden;
 			-webkit-transform: translateZ(1px) scale(1.1, 1.1);
 	}
