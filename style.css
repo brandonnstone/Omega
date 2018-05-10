@@ -122,9 +122,9 @@
 		transition: all .3s;
 	}
 	.user a:hover {
-		opacity: .6;
+		opacity: .5;
 		text-decoration: none;
-		transition: all .3s;
+		transition: all .5s;
 	}
 	#date {
 		color: #E5E5E5 !important;
